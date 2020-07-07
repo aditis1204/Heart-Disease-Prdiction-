@@ -18,3 +18,6 @@
 * Number of major vessels (0-3) colored by fluoroscopy(ca) : displays the value as integer or float.
 * Thal : displays the thalassemia as 3 = normal 6 = fixed defect 7 = reversible defect
 * Diagnosis of heart disease(class/target) : Displays whether the individual is suffering from heart disease or not : 0 = absence 1,2,3,4 = present.
+
+# Accuracy Comparison of Various ML algorithms for this datset
+<img src = "Output/comparison.png"/>
