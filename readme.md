@@ -3,7 +3,7 @@
 * The dataset is taken from UCI.  It has 303 instances and 14 attributes with some null values
 * The dataset contains age,sex,chest pain, resting resting blood pressure, cholesterol, fasting blood sugar, resting ECG, maximum heart rate, exercise induced angina, oldpeak, slope, number of vessels colored and thalassemia. The final target or class has values 0,1,2,3 and 4. 0 signifies absence of disease and other show disease presence. For classification we have classified using Neural Networks considering total 5 classes and later on we converted the data to binary classification and implemented SVM, KNN, Logistic Regression
 
-# Description of Dataset
+### Description of Dataset
 * age : age of the person
 * sex : gender of person as  1 for male, 0 for female.
 * Chest pain type(cp) : type of chest-pain experienced by person as 1 = typical angina, 2 = atypical angina, 3 = non - anginal pain, 4 = asymptotic
@@ -19,7 +19,7 @@
 * Thal : displays the thalassemia as 3 = normal 6 = fixed defect 7 = reversible defect
 * Diagnosis of heart disease(class/target) : Displays whether the individual is suffering from heart disease or not : 0 = absence 1,2,3,4 = present.
 
-# Accuracy Comparison of Various ML algorithms for this datset: 
+### Accuracy Comparison of Various ML algorithms for this datset: 
 
 SVM performs best, than Random forest. Others performance can be observed from graph.
 <img src = "Output/Comparison.png"/>
