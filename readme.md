@@ -20,4 +20,4 @@
 * Diagnosis of heart disease(class/target) : Displays whether the individual is suffering from heart disease or not : 0 = absence 1,2,3,4 = present.
 
 # Accuracy Comparison of Various ML algorithms for this datset
-<img src = "Output/comparison.png"/>
+<img src = "Output/Comparison.png"/>
